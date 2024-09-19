@@ -42,10 +42,10 @@ O Sistema de Gestão das Olimpíadas (SGO) é um sistema desenvolvido para coord
 ## Diagramas
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
+![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.jpg)
 
 ### Diagrama de Classes
-![Diagrama de Classes](imagens/diagrama-de-classes.png)
+![Diagrama de Classes](imagens/diagrama-de-classes.jpg)
 
 ### Diagrama de Pacotes
 ![Diagrama de Pacotes](imagens/diagrama-de-pacotes.png)
